@@ -1,0 +1,14 @@
+Package: Quasi
+Type: Package
+Title: Computes the Quasi-ANCOVA Analysis
+Version: 0.1
+Date: 2026-11-21
+Author: Joe McKean
+Maintainer: Joseph W. McKean <joseph.mckean@wmich.edu>
+Description: A valid Quasi-ANCOVA Analysis using a bootstrapped p-value.
+License: GPL (>= 2)
+LazyLoad: yes
+LazyData: yes
+NeedsCompilation: no
+Packaged: 2026-11-2026 15:51:39 UTC; joe
+Config/roxygen2/version: 8.1.1
